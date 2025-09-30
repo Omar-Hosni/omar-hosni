@@ -51,7 +51,7 @@ GitHub Stats:
 ---
 # Omar Mahmoud – Data-Scientist & Full-Stack Engineer
 ### [📧 omarhosny.barcelona@gmail.com](mailto:omarhosny.barcelona@gmail.com)
-### [💼 LinkedIn](https://linkedin.com) · [👨‍💻 GitHub](https://github.com) · [🧠 LeetCode](https://leetcode.com) · 📱 +36 20 478 7420
+### [💼 LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/omar-hosny-b235211aa/) · [🧠 LeetCode](https://leetcode.com/u/OmarHosny1/)
 ---
 
 ## 🎯 Professional Summary
@@ -132,4 +132,20 @@ Proven record of turning **complex data into production-grade micro-services**, 
 |---|---|---|
 | **5G-Slicing Anomaly Detection** | Python, Flower, CIC-IDS-2017 | Federated learning framework achieving **90 % real-time threat detection**. |
 | **Photoshop Clone** | React, Fabric.js, Zustand | Browser-based editor with layers, filters, shapes. |
-| **Discord RAG-GPT Bot** | Python, Weaviate, OpenAI |
+| **Discord RAG-GPT Bot** | Python, Weaviate, OpenAI | Context-aware consultant bot trained on podcast transcripts & chat history. |
+| **VIGEN Auto-Video** | Python, FFmpeg, MoviePy, Celery, Redis | Generates social-media videos at scale with async task queue. |
+
+---
+
+## 🏆 Certificates
+- Machine Learning Experienced – Ericsson  
+- Docker Intro + Kubernetes & Helm Admin – Component Soft  
+- Distributed Systems Introduction – Udemy
+
+---
+
+## 🌍 Leadership & Soft Skills
+- High-standards bar-raiser, bias-to-action, transparent conflict-resolution.  
+- Former **Technical Director GDSC**; mentored 30+ students.  
+- Selective communicator – tailor message to any audience (exec, customer, intern).
+
