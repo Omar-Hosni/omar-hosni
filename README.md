@@ -49,9 +49,9 @@ GitHub Stats:
 
 
 ---
-# Omar Mahmoud – Data-Scientist & Full-Stack Engineer
+# Omar Mahmoud – Data Scientist & Software Engineer
 ### [📧 omarhosny.barcelona@gmail.com](mailto:omarhosny.barcelona@gmail.com)
-### [💼 LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/omar-hosny-b235211aa/) · [🧠 LeetCode](https://leetcode.com/u/OmarHosny1/)
+### [💼 LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/omar-hosny-b235211aa/) · [🧠 LeetCode Profile](https://leetcode.com/u/OmarHosny1/)
 ---
 
 ## 🎯 Professional Summary
@@ -65,10 +65,11 @@ Proven record of turning **complex data into production-grade micro-services**, 
 |---|---|
 | **Languages** | Python, JavaScript/TypeScript, C/C++, Java |
 | **ML / AI** | PyTorch, TensorFlow, Scikit-Learn, Hugging Face, LLM orchestration (AWS Bedrock, OpenAI) |
-| **Data** | Pandas, NumPy, Kafka, Redis, Airflow, Prefect |
+| **Data** | Pandas, NumPy, Kafka, Redis, Airflow, Prefect, Spark, Snowflake |
 | **Cloud & DevOps** | AWS (S3, SageMaker, ECR, IAM), GCP, Kubernetes, Helm, Docker, CI/CD |
 | **Web & API** | FastAPI, Django, Flask, React, Node, PostgreSQL, MongoDB |
 | **Scientific** | 3D-UNet, GNN, EEG, fMRI, GROMACS, Overleaf |
+| **Software** | Data Structures & Algorithms, Memory Optimization, System Design |
 
 ---
 
