@@ -51,7 +51,7 @@ GitHub Stats:
 ---
 # Omar Mahmoud – Data Scientist & Software Engineer
 ### [📧 omarhosny.barcelona@gmail.com](mailto:omarhosny.barcelona@gmail.com)
-### [💼 LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/omar-hosny-b235211aa/) · [🧠 LeetCode Profile](https://leetcode.com/u/OmarHosny1/)
+### [💼 LinkedIn Profile](https://www.linkedin.com/in/omar-hosny-b235211aa/) · [🧠 LeetCode Profile](https://leetcode.com/u/OmarHosny1/)
 ---
 
 ## 🎯 Professional Summary
@@ -74,7 +74,6 @@ Proven record of turning **complex data into production-grade micro-services**, 
 ---
 
 ## 🏢 Employment History
-&gt; *Reverse chronological, full-time unless stated.*
 
 ### Ericsson — Budapest, Hungary  
 **Data Scientist – Software Developer** (May 2025 – Present)  
