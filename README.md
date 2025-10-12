@@ -78,13 +78,13 @@ Proven record of turning **complex data into production-grade micro-services**, 
 ### Ericsson — Budapest, Hungary  
 **Data Scientist – Software Developer** (May 2025 – Present)  
 *Engineering Environment & Experience unit*  
-- Orchestrate developer-experience KPIs; build **AI agents (Bedrock)** for hardware-simulation troubleshooting.  
-- Ship **timeseries-forecasting micro-services** that inform strategic resource allocation.
+- Orchestrate developer-experience KPIs; build **AI agents (AWS Bedrock)** for hardware-simulation troubleshooting.  
+- Ship **timeseries-forecasting micro-services** (Scikit-learn) that inform strategic resource allocation.
 
 **Software Engineer** (July 2023 – May 2025)  
 *Cloud Network Solutions unit*  
-- Designed **ETL streaming pipelines** for 8 telco operators; enabled **real-time 4G optimization** used worldwide.  
-- Built **fault-tolerant task-orchestration layer** (Kubernetes + FastAPI) that triggers ML inference on 100 k+ cell-data/min.
+- Designed **ETL streaming pipelines** for 8 telco operators; enabled **distributed proessing** (Kafka+Dask) for more thorughput.  
+- Built **fault-tolerant task-orchestration system** (Kubernetes + FastAPI) that triggers ML inference for **4G Cell Optimization**.
 
 ### Symphony Neurotech — California, USA *(Stealth-mode biotech)*  
 **Deep-Learning Consultant** (Nov 2024 – Present)  
