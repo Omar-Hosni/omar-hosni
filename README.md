@@ -55,7 +55,7 @@ GitHub Stats:
 ---
 
 ## 🎯 Professional Summary
-Data Scientist & Software Engineer with **4+ years** building **cloud-native, AI-driven systems** that power 4G/5G networks, developer-experience platforms, and neuromodulation research.  
+Data Scientist & Software Engineer with **5+ years** building **cloud-native, AI-driven systems** that power 4G/5G networks, developer-experience platforms, and neuromodulation research.  
 Proven record of turning **complex data into production-grade micro-services**, **forecasting KPIs**, and **shipping full-stack products** used by thousands.
 
 ---
